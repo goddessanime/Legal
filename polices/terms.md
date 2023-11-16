@@ -5,8 +5,6 @@ pubDate: "2023-09-27T23:48:40.167Z"
 author: "547923574833545226"
 ---
 
----
-
 ## Welcome to the Goddess Anime Discord Bot
 
 Thank you for choosing the Goddess Anime Discord bot by WitherVt. These Terms of Service ("Terms") govern your use of the Goddess Anime Discord bot and related services provided by WitherVt. We kindly request that you carefully read and understand these Terms before engaging with our services. Your use of the Goddess Anime Discord bot signifies your acceptance of and agreement to comply with these Terms.
