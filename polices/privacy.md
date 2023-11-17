@@ -13,7 +13,7 @@ This privacy notice for Goddess Anime ("**we**," "**us**," or "**our**"), descri
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at withervt@gmail.om.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at withervt@gmail.com.
 
   
 
@@ -23,13 +23,13 @@ This privacy notice for Goddess Anime ("**we**," "**us**," or "**our**"), descri
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our_** [**_table of contents_**](#toc) **_below to find the section you are looking for._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our_** [**_table of contents_**](#table-of-contents) **_below to find the section you are looking for._**
 
   
 
 ## **What personal information do we process?** 
 
-> When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
+> When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-provided-by-you).
 
   
 
@@ -47,25 +47,25 @@ This privacy notice for Goddess Anime ("**we**," "**us**," or "**our**"), descri
 
 ## **How do we process your information?** 
 
-> We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#infouse).
+> We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
 
   
 
 ## **In what situations and with which parties do we share personal information?**
 
-> We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#whoshare).
+> We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#4-when-and-with-whom-do-we-share-your-personal-information).
 
   
 
 ## **How do we keep your information safe?** 
 
-> We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#infosafe).
+> We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#8-how-do-we-keep-your-information-safe).
 
   
 
 ## **What are your rights?** 
 
-> Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#privacyrights).
+> Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#what-are-your-rights).
 
   
 
@@ -75,7 +75,7 @@ This privacy notice for Goddess Anime ("**we**," "**us**," or "**our**"), descri
 
   
 
-Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#toc).
+Want to learn more about what we do with any information we collect? [Review the privacy notice in full](#table-of-contents).
 
   
 
@@ -85,33 +85,33 @@ Want to learn more about what we do with any information we collect? [Review the
 
   
 
-[1. WHAT INFORMATION DO WE COLLECT?](#infocollect)
+[1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
 
-[2. HOW DO WE PROCESS YOUR INFORMATION?](#infouse)
+[2. HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
 
-[3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#legalbases)
+[3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-process-your-information)
 
-[4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)
+[4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
 
-[5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#3pwebsites)
+[5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#5-what-is-our-stance-on-third-party-websites)
 
-[6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#sociallogins)
+[6. HOW DO WE HANDLE YOUR SOCIAL LOGINS?](#6-how-do-we-handle-your-social-logins)
 
-[7. HOW LONG DO WE KEEP YOUR INFORMATION?](#inforetain)
+[7. HOW LONG DO WE KEEP YOUR INFORMATION?](#7-how-long-do-we-keep-your-information)
 
-[8. HOW DO WE KEEP YOUR INFORMATION SAFE?](#infosafe)
+[8. HOW DO WE KEEP YOUR INFORMATION SAFE?](#8-how-do-we-keep-your-information-safe)
 
-[9. WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)
+[9. WHAT ARE YOUR PRIVACY RIGHTS?](#9-what-are-your-privacy-rights)
 
-[10. CONTROLS FOR DO-NOT-TRACK FEATURES](#DNT)
+[10. CONTROLS FOR DO-NOT-TRACK FEATURES](#10-controls-for-do-not-track-features)
 
-[11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#uslaws)
+[11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#11-do-united-states-residents-have-specific-privacy-rights)
 
-[12. DO WE MAKE UPDATES TO THIS NOTICE?](#policyupdates)
+[12. DO WE MAKE UPDATES TO THIS NOTICE?](#12-do-we-make-updates-to-this-notice)
 
-[13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)
+[13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)
 
-[14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#request)
+[14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#14-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
   
 
@@ -213,7 +213,7 @@ _**If you are located in the EU or UK, this section applies to you.**_
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
+*   **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawing-your-consent).
 
 *   **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.  
     
@@ -226,7 +226,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
   
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](#withdrawconsent) at any time.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can [withdraw your consent](#withdrawing-your-consent) at any time.
 
   
 
@@ -333,7 +333,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
   
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section " [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section " [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)" below.
 
   
 
@@ -349,7 +349,7 @@ If you are located in Switzerland, you may contact the [Federal Data Protection 
 
 ## **Withdrawing your consent:** 
 
-> If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section " [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#contact)" below.
+> If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section " [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#13-how-can-you-contact-us-about-this-notice)" below.
 
   
 
@@ -369,7 +369,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
   
 
-If you have questions or comments about your privacy rights, you may email us at withervt@gmail.om.
+If you have questions or comments about your privacy rights, you may email us at withervt@gmail.com.
 
   
 
@@ -539,7 +539,7 @@ We may also collect other personal information outside of these categories throu
 
   
 
-Learn about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#infouse)"
+Learn about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
 
   
 
@@ -547,7 +547,7 @@ Learn about how we use your personal information in the section, "[HOW DO WE PRO
 
   
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, " [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#whoshare)"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, " [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
 
   
 
@@ -695,11 +695,11 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 
 *   Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email withervt@gmail.om.
+To submit a request to exercise these rights described above, please email withervt@gmail.com.
 
   
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at withervt@gmail.om. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at withervt@gmail.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
   
 
@@ -725,7 +725,7 @@ To submit a request to exercise these rights described above, please email withe
 
   
 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at withervt@gmail.om. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at withervt@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 
   
 
@@ -745,7 +745,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 
 *   Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email withervt@gmail.om.
+To submit a request to exercise these rights described above, please email withervt@gmail.com.
 
   
 
@@ -791,7 +791,7 @@ Exercise your rights provided under the Virginia VCDPA
 
   
 
-You may contact us by email at withervt@gmail.om.
+You may contact us by email at withervt@gmail.com.
 
   
 
@@ -815,7 +815,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
   
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at withervt@gmail.om. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) .
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at withervt@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the [Attorney General to submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) .
 
   
 
