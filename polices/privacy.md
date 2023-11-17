@@ -27,7 +27,7 @@ This privacy notice for Goddess Anime ("**we**," "**us**," or "**our**"), descri
 
   
 
-##**What personal information do we process?** 
+## **What personal information do we process?** 
 
 > When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personalinfo).
 
