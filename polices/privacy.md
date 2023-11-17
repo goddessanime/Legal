@@ -847,4 +847,4 @@ Goddess Anime
 
   
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please email us at [mailto:withervt@gail.com](withervt@gmail.com].
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please email us at [mailto:withervt@gmail.com](withervt@gmail.com]).
